@@ -32,7 +32,7 @@
 * **jQuery 3.6.0**
 
 ## Collaborators
-
+ronaldScott
 [@Abregu1998](https://github.com/Abregu1998)
 [@arturcv26](https://github.com/arturcv26)
 [@enrique963](https://github.com/enrique963)
